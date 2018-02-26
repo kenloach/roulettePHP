@@ -1,0 +1,11 @@
+[08-Feb-2018 08:57:31 Europe/Paris] PHP Parse error:  syntax error, unexpected '"><br>';' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/UNIV-LYON1/p1716228/public_html/TP2/index.php on line 20
+[08-Feb-2018 08:57:55 Europe/Paris] PHP Warning:  require_once(fonctions.php): failed to open stream: No such file or directory in /home/UNIV-LYON1/p1716228/public_html/TP2/index.php on line 2
+[08-Feb-2018 08:57:55 Europe/Paris] PHP Fatal error:  require_once(): Failed opening required 'fonctions.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/UNIV-LYON1/p1716228/public_html/TP2/index.php on line 2
+[08-Feb-2018 09:21:30 Europe/Paris] PHP Parse error:  syntax error, unexpected '-', expecting variable (T_VARIABLE) or '$' in /home/UNIV-LYON1/p1716228/public_html/TP2/index.php on line 19
+[08-Feb-2018 09:21:50 Europe/Paris] PHP Warning:  require_once(fonctions.php): failed to open stream: No such file or directory in /home/UNIV-LYON1/p1716228/public_html/TP2/index.php on line 2
+[08-Feb-2018 09:21:50 Europe/Paris] PHP Fatal error:  require_once(): Failed opening required 'fonctions.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/UNIV-LYON1/p1716228/public_html/TP2/index.php on line 2
+[08-Feb-2018 09:44:41 Europe/Paris] PHP Parse error:  syntax error, unexpected 'miser' (T_STRING), expecting ',' or ';' in /home/UNIV-LYON1/p1716228/public_html/TP2/roulette.php on line 13
+[08-Feb-2018 09:45:08 Europe/Paris] PHP Parse error:  syntax error, unexpected 'miser' (T_STRING), expecting ',' or ';' in /home/UNIV-LYON1/p1716228/public_html/TP2/roulette.php on line 13
+[08-Feb-2018 09:45:11 Europe/Paris] PHP Parse error:  syntax error, unexpected 'miser' (T_STRING), expecting ',' or ';' in /home/UNIV-LYON1/p1716228/public_html/TP2/roulette.php on line 13
+[08-Feb-2018 09:45:18 Europe/Paris] PHP Parse error:  syntax error, unexpected 'miser' (T_STRING), expecting ',' or ';' in /home/UNIV-LYON1/p1716228/public_html/TP2/roulette.php on line 13
+[08-Feb-2018 09:55:03 Europe/Paris] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/UNIV-LYON1/p1716228/public_html/TP2/resultat.php on line 13
