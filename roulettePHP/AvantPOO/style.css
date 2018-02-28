@@ -1,0 +1,26 @@
+h1 {
+	background-color : darkblue;
+	color : yellow;
+	float : middle;
+	border: 0.5em solid white
+
+}
+
+body {
+	font-family:  : Arial, sans-serif;
+	background-image : url("ressources/Casino.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: black;
+	color: white;
+}
+
+div:nth-child(odd) { 
+	color: red;
+	
+}
+	
+p {
+
+}
+

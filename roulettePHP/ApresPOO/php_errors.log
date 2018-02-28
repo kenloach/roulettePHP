@@ -1,0 +1,34 @@
+[28-Feb-2018 13:43:29 Europe/Paris] PHP Parse error:  syntax error, unexpected '{' in /home/UNIV-LYON1/p1711580/public_html/index.php on line 26
+[28-Feb-2018 13:43:51 Europe/Paris] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/UNIV-LYON1/p1711580/public_html/rouletteBDD.php on line 2
+[28-Feb-2018 13:43:58 Europe/Paris] PHP Parse error:  syntax error, unexpected '}' in /home/UNIV-LYON1/p1711580/public_html/rouletteBDD.php on line 17
+[28-Feb-2018 13:44:30 Europe/Paris] PHP Fatal error:  Uncaught exception 'PDOException' with message 'could not find driver' in /home/UNIV-LYON1/p1711580/public_html/rouletteBDD.php:9
+Stack trace:
+#0 /home/UNIV-LYON1/p1711580/public_html/rouletteBDD.php(9): PDO->__construct('oracle:host=loc...', 'p1716228', '308410')
+#1 /home/UNIV-LYON1/p1711580/public_html/inscription.php(11): BDD->init()
+#2 {main}
+  thrown in /home/UNIV-LYON1/p1711580/public_html/rouletteBDD.php on line 9
+[28-Feb-2018 13:44:49 Europe/Paris] PHP Fatal error:  Uncaught exception 'PDOException' with message 'could not find driver' in /home/UNIV-LYON1/p1711580/public_html/rouletteBDD.php:9
+Stack trace:
+#0 /home/UNIV-LYON1/p1711580/public_html/rouletteBDD.php(9): PDO->__construct('oracle:host=loc...', 'p1716228', '308410')
+#1 /home/UNIV-LYON1/p1711580/public_html/inscription.php(11): BDD->init()
+#2 {main}
+  thrown in /home/UNIV-LYON1/p1711580/public_html/rouletteBDD.php on line 9
+[28-Feb-2018 13:44:49 Europe/Paris] PHP Fatal error:  Uncaught exception 'PDOException' with message 'could not find driver' in /home/UNIV-LYON1/p1711580/public_html/rouletteBDD.php:9
+Stack trace:
+#0 /home/UNIV-LYON1/p1711580/public_html/rouletteBDD.php(9): PDO->__construct('oracle:host=loc...', 'p1716228', '308410')
+#1 /home/UNIV-LYON1/p1711580/public_html/inscription.php(11): BDD->init()
+#2 {main}
+  thrown in /home/UNIV-LYON1/p1711580/public_html/rouletteBDD.php on line 9
+[28-Feb-2018 13:45:51 Europe/Paris] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/UNIV-LYON1/p1711580/public_html/rouletteBDD.php on line 20
+[28-Feb-2018 13:46:21 Europe/Paris] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/UNIV-LYON1/p1711580/public_html/rouletteBDD.php on line 20
+[28-Feb-2018 13:47:29 Europe/Paris] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/UNIV-LYON1/p1711580/public_html/rouletteBDD.php on line 21
+[28-Feb-2018 13:49:57 Europe/Paris] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/UNIV-LYON1/p1711580/public_html/rouletteBDD.php on line 25
+[28-Feb-2018 13:51:10 Europe/Paris] PHP Warning:  PDOStatement::execute() expects parameter 1 to be array, string given in /home/UNIV-LYON1/p1711580/public_html/rouletteBDD.php on line 18
+[28-Feb-2018 13:51:10 Europe/Paris] PHP Notice:  Undefined offset: 0 in /home/UNIV-LYON1/p1711580/public_html/rouletteBDD.php on line 21
+[28-Feb-2018 13:51:10 Europe/Paris] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/UNIV-LYON1/p1711580/public_html/rouletteBDD.php on line 21
+[28-Feb-2018 13:51:18 Europe/Paris] PHP Notice:  Undefined offset: 0 in /home/UNIV-LYON1/p1711580/public_html/rouletteBDD.php on line 21
+[28-Feb-2018 13:51:18 Europe/Paris] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/UNIV-LYON1/p1711580/public_html/rouletteBDD.php on line 21
+[28-Feb-2018 13:52:23 Europe/Paris] PHP Notice:  Undefined offset: 0 in /home/UNIV-LYON1/p1711580/public_html/rouletteBDD.php on line 21
+[28-Feb-2018 13:52:23 Europe/Paris] PHP Notice:  Use of undefined constant password - assumed 'password' in /home/UNIV-LYON1/p1711580/public_html/rouletteBDD.php on line 21
+[28-Feb-2018 13:52:34 Europe/Paris] PHP Notice:  Undefined offset: 0 in /home/UNIV-LYON1/p1711580/public_html/rouletteBDD.php on line 21
+[28-Feb-2018 13:52:56 Europe/Paris] PHP Notice:  Trying to get property of non-object in /home/UNIV-LYON1/p1711580/public_html/rouletteBDD.php on line 21
